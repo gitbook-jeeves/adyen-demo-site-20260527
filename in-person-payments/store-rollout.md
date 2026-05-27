@@ -35,4 +35,4 @@ Roll out by store archetype, region, or connectivity pattern so the docs stay re
 - refund and receipt support rules
 - post-launch monitoring guide
 
-For the technical side of resilience, continue to [Reliability and networking](reliability-and-networking.md). For the operator model shared with finance and support teams, see [Management](https://app.gitbook.com/s/Hb12ab4QZzvwDOuVoUdb/).
+For the technical side of resilience, continue to [Reliability and networking](reliability-and-networking.md). For the operator model shared with finance and support teams, see [Business operations](https://app.gitbook.com/s/tpOK3CBj5gh4BgUpxDsv/).

@@ -35,4 +35,4 @@ After launch, most teams are not asking "How do I start a payment?" They are ask
 
 This is where GitBook can be especially strong for Adyen: implementation content and operator content can coexist without being forced into separate tools or separate audiences.
 
-For the shared operator view across products, continue to [Management](https://app.gitbook.com/s/Hb12ab4QZzvwDOuVoUdb/).
+For the shared operator view across products, continue to [Business operations](https://app.gitbook.com/s/tpOK3CBj5gh4BgUpxDsv/).

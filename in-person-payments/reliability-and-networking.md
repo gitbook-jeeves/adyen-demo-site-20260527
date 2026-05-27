@@ -28,4 +28,4 @@ Use one page per failure mode family, with:
 3. what the platform team should inspect
 4. when to fail over or retry
 
-For unified post-launch workflows across products, continue to [Management](https://app.gitbook.com/s/Hb12ab4QZzvwDOuVoUdb/).
+For unified post-launch workflows across products, continue to [Business operations](https://app.gitbook.com/s/tpOK3CBj5gh4BgUpxDsv/).
