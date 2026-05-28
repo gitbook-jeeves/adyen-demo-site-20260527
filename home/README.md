@@ -1,6 +1,12 @@
 ---
 description: A GitBook-first reframe of Adyen's public docs around clearer journeys, stronger cross-team handoff, and better operator context.
 icon: house
+cover: .gitbook/assets/adyen-home-cover.svg
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: full
 ---
 
 # Adyen Developer Hub
